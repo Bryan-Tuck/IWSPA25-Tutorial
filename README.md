@@ -1,6 +1,6 @@
 # LLMs Under Attack: Understanding the Adversarial Mindset
 
-**Presenter:** Bryan E. Tuck · University of Houston · [ORCID](https://orcid.org/0009-0002-3739-9708)  
+**Presenter:** Bryan E. Tuck · University of Houston · [ORCID](https://orcid.org/0009-0002-3739-9708) · [Google Scholar](https://scholar.google.com/citations?user=2TgU0jMAAAAJ&hl=en&oi=ao)  
 **Event:** 11th ACM International Workshop on Security and Privacy Analytics (IWSPA ’25) — 6 June 2025, Pittsburgh, PA, USA  
 **Slides:** [`LLMs Under Attack.pdf`](LLMs%20Under%20Attack.pdf)  
 **Tutorial Notebook:** [`iwspa25_tutorial.ipynb`](iwspa25_tutorial.ipynb)
