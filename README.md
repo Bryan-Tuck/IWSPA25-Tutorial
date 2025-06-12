@@ -96,10 +96,10 @@ If you use these materials, please cite the tutorial abstract:
 ```bibtex
 @inproceedings{tuck2025llms,
   title     = {LLMs Under Attack: Understanding the Adversarial Mindset},
-  author    = {Bryan E. Tuck},
-  booktitle = {Proceedings of the 11th ACM International Workshop on Security and Privacy Analytics (IWSPA '25)},
+  author    = {Bryan Edward Tuck},
+  booktitle = {Proceedings of the 2025 ACM International Workshop on Security and Privacy Analytics},
   year      = {2025},
-  pages     = {33--35},
+  pages     = {34--35},
   publisher = {ACM},
   doi       = {10.1145/3716815.3729018}
 }
